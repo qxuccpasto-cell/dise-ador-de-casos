@@ -1,0 +1,5 @@
+{
+  "name": "MediEval - OSCE Station Evaluator",
+  "description": "An interactive evaluation tool for medical teachers to assess students in structured clinical stations (OSCE). Features AI-generated clinical cases, real-time checklist evaluation, timing control, and PDF reporting.",
+  "requestFramePermissions": []
+}
